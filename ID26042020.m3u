@@ -501,3 +501,18 @@ http://45.126.83.51/qwr9ew/s/s32/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XUVOX9K.png" group-title="MOVIES",Zee Bioskop (Opt-3)
 http://210.210.155.35/session/031c454a-7d85-11e8-820c-c81f66f89318/qwr9ew/s/s32/index1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NyCSGAH.png" group-title="GENERAL ENTERTAINMENT",Outdoor (Opt-1)
+https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1587922236~exp=9007200842663227~acl=/4333904e5f68426cae808a645e882206/*/profile_3/chunklist.m3u8*~hmac=6b31eae2f327b562e1f8de3e3c0869497eda604dfd40cabb756fb7f26709f239
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NyCSGAH.png" group-title="GENERAL ENTERTAINMENT",Outdoor (Opt-2)
+https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1587922236~exp=9007200842663227~acl=/4333904e5f68426cae808a645e882206/*/profile_2/chunklist.m3u8*~hmac=33465f822c1509da1b1ef884f901370a5f997f6d9d4166ec7606dbf7bd081847
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NyCSGAH.png" group-title="GENERAL ENTERTAINMENT",Outdoor (Opt-3)
+https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1587922236~exp=9007200842663227~acl=/4333904e5f68426cae808a645e882206/*/profile_1/chunklist.m3u8*~hmac=9769d7414933f5fe23f58f125ddddfd649d3d01790846f4fd20938d37bfa2127
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NyCSGAH.png" group-title="GENERAL ENTERTAINMENT",Outdoor (Opt-4)
+https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1587922236~exp=9007200842663227~acl=/4333904e5f68426cae808a645e882206/*/profile_0/chunklist.m3u8*~hmac=08a4f6461eb216a0c8c2f43ecd2939503f4ae7d8c7045953a00d21bb337f1004
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6DtJfdB.png" group-title="NEWS",DW (Opt-4)
+https://streaming.useetv.com/joss/14/dwtv/playlist.m3u8?enc=A-2U70A5ZajUMzbj3BSpaQ&exp=1587923231&encp=vL4K34HVq3h_WLih7MWMsw&expp=1587931931
