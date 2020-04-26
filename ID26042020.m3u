@@ -51,25 +51,3 @@ https://etslive-2-vidio-com.akamaized.net/exp=1587951400~acl=/hls-p/ingest_6165_
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Ochannel.png" group-title="Lokal",O Channel
 https://etslive-2-vidio-com.akamaized.net/exp=1587951224~acl=/hls-p/ingest_206_*/*~hmac=1b0aec2e3be0313d3bf4fe65b66eecf31f65449a04401bd07c790629280dce31/hls-p/ingest_206_720p/index.m3u8
-
-<!-- Entertainment -->
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1Yr9nMG.png" group-title="Entertainment",J'go
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fYDEkwE.png" group-title="Entertainment",AXN (Opt-2)
-http://210.210.155.66/h/h141/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sNidxnW.png" group-title="Entertainment",Fox Crime (Opt-1)
-https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-mp4a_98800_eng=3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sNidxnW.png" group-title="Entertainment",Fox Crime (Opt-2)
-https://anevia115.mncnow.id:443/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-FoxCrime-mp4a_98800_eng=3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WY2deTP.png" group-title="Entertainment",Fox Life (New!)
-https://anevia115.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld-avc1_2499968=7-mp4a_98800_ind=2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ll7z6aR.png" group-title="Entertainment",Hits Movies
-https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies-avc1_2499968=12-mp4a_98800_eng=5.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/54CRycL.png" group-title="Entertainment",FX
-https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
