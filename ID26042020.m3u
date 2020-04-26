@@ -9,9 +9,6 @@ https://etslive-2-vidio-com.akamaized.net/exp=1587950741~acl=/hls-p/ingest_205_*
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/New_Logo_TVRI.png" group-title="Nasional",TVRI
 https://etslive-2-vidio-com.akamaized.net/exp=1587950877~acl=/hls-p/ingest_6441_*/*~hmac=ffe6caaa52131987f31d78da26aa5aaa843ebc06fe47bc20b7c12b89990e0933/hls-p/ingest_6441_720p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Ochannel.png" group-title="Nasional",O Channel
-https://etslive-2-vidio-com.akamaized.net/exp=1587951224~acl=/hls-p/ingest_206_*/*~hmac=1b0aec2e3be0313d3bf4fe65b66eecf31f65449a04401bd07c790629280dce31/hls-p/ingest_206_720p/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/2e/Logo-Kompas_TV.png" group-title="Nasional",Kompas TV
 https://etslive-2-vidio-com.akamaized.net/exp=1587951325~acl=/hls-p/ingest_874_*/*~hmac=f820f4c97ef948d43930e43d0217910652e4a5d44fff1589521fe8cc8be99bb6/hls-p/ingest_874_720p/index.m3u8
 
@@ -48,3 +45,6 @@ https://etslive-2-vidio-com.akamaized.net/exp=1587952127~acl=/hls-p/ingest_5415_
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8b/Logo_BeritaSatu_TV.png" group-title="Lokal",Berita Satu
 https://etslive-2-vidio-com.akamaized.net/exp=1587951400~acl=/hls-p/ingest_6165_*/*~hmac=b8984a948618b4edd8cd17c0a41464db08d9bfe4a5e16e161988aab6bc140e4d/hls-p/ingest_6165_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Ochannel.png" group-title="Lokal",O Channel
+https://etslive-2-vidio-com.akamaized.net/exp=1587951224~acl=/hls-p/ingest_206_*/*~hmac=1b0aec2e3be0313d3bf4fe65b66eecf31f65449a04401bd07c790629280dce31/hls-p/ingest_206_720p/index.m3u8
