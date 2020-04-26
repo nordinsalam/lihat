@@ -15,19 +15,16 @@ https://etslive-2-vidio-com.akamaized.net/exp=1587951224~acl=/hls-p/ingest_206_*
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/2e/Logo-Kompas_TV.png" group-title="Nasional",Kompas TV
 https://etslive-2-vidio-com.akamaized.net/exp=1587951325~acl=/hls-p/ingest_874_*/*~hmac=f820f4c97ef948d43930e43d0217910652e4a5d44fff1589521fe8cc8be99bb6/hls-p/ingest_874_720p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8b/Logo_BeritaSatu_TV.png" group-title="Nasional",Berita Satu
-https://etslive-2-vidio-com.akamaized.net/exp=1587951400~acl=/hls-p/ingest_6165_*/*~hmac=b8984a948618b4edd8cd17c0a41464db08d9bfe4a5e16e161988aab6bc140e4d/hls-p/ingest_6165_720p/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/bb/New_MetroTV_Logo_2010.png" group-title="Nasional",Metro TV
 https://etslive-2-vidio-com.akamaized.net/exp=1587951575~acl=/hls-p/ingest_777_*/*~hmac=1996e086610565a47504205546abe5503e70ddf173916b8c3e07a76a399cc497/hls-p/ingest_777_720p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-trans-tv-png-8.png" group-title="Nasional",Trans TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9ESSmBG.png" group-title="Nasional",Trans TV
 https://etslive-2-vidio-com.akamaized.net/exp=1587951669~acl=/hls-p/ingest_733_*/*~hmac=ac97b4c6ace6903fad86fae8ebefb118814ddbcc0043053a996434448f7ada62/hls-p/ingest_733_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/09/RCTI_MNC-Group.png" group-title="Nasional",RCTI
 https://etslive-2-vidio-com.akamaized.net/exp=1587951860~acl=/hls-p/ingest_665_*/*~hmac=770522bc2acf49dd7b08b9a9a5be84a89be136edd6ae18dab5f31595c78e1501/hls-p/ingest_665_720p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/trans7-png.png" group-title="Nasional",Trans7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cpSiuF1.png" group-title="Nasional",Trans7
 https://etslive-2-vidio-com.akamaized.net/exp=1587951974~acl=/hls-p/ingest_734_*/*~hmac=ed8ded1ae979e9324a8134d20c8aeae2f0e764c7aaf958ffebaa0c829a2d7025/hls-p/ingest_734_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="Nasional",MNC TV
@@ -39,6 +36,10 @@ https://etslive-2-vidio-com.akamaized.net/exp=1587952497~acl=/hls-p/ingest_778_*
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7c/Netmediatama.png" group-title="Nasional",NET
 https://etslive-2-vidio-com.akamaized.net/exp=1587952613~acl=/hls-p/ingest_875_*/*~hmac=c42d0857519136dc7766c5364c21d691b6d5e1ced9254858878632d957f2bb0d/hls-p/ingest_875_720p/index.m3u8
 
+
 <!-- Lokal -->
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cc/Logo_Jak_TV_%282018%29.png" group-title="Lokal",JAKTV
 https://etslive-2-vidio-com.akamaized.net/exp=1587952127~acl=/hls-p/ingest_5415_*/*~hmac=f79b71abec4f525d7e05bd95d77d6ba81edcc84942336edf6c9c402623bbed62/hls-p/ingest_5415_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8b/Logo_BeritaSatu_TV.png" group-title="Nasional",Berita Satu
+https://etslive-2-vidio-com.akamaized.net/exp=1587951400~acl=/hls-p/ingest_6165_*/*~hmac=b8984a948618b4edd8cd17c0a41464db08d9bfe4a5e16e161988aab6bc140e4d/hls-p/ingest_6165_720p/index.m3u8
