@@ -36,10 +36,15 @@ https://etslive-2-vidio-com.akamaized.net/exp=1587952497~acl=/hls-p/ingest_778_*
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7c/Netmediatama.png" group-title="Nasional",NET
 https://etslive-2-vidio-com.akamaized.net/exp=1587952613~acl=/hls-p/ingest_875_*/*~hmac=c42d0857519136dc7766c5364c21d691b6d5e1ced9254858878632d957f2bb0d/hls-p/ingest_875_720p/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Goc3pTS.png" group-title="Nasional",RTV
+https://etslive-2-vidio-com.akamaized.net/exp=1587953063~acl=/hls-p/ingest_geo_1561_*/*~hmac=561dffc0f1aa1731ac4de8d2fe5fd651838222177120bc3c24ad0ca45d468cd1/hls-p/ingest_geo_1561_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="Nasional",iNews
+https://etslive-2-vidio-com.akamaized.net/exp=1587953222~acl=/hls-p/ingest_5409_*/*~hmac=31a3258638577bf41fbf19dd4b20a5b6ff74be1bff41bb826de753338c76ecb8/hls-p/ingest_5409_720p/index.m3u8
 
 <!-- Lokal -->
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cc/Logo_Jak_TV_%282018%29.png" group-title="Lokal",JAKTV
 https://etslive-2-vidio-com.akamaized.net/exp=1587952127~acl=/hls-p/ingest_5415_*/*~hmac=f79b71abec4f525d7e05bd95d77d6ba81edcc84942336edf6c9c402623bbed62/hls-p/ingest_5415_720p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8b/Logo_BeritaSatu_TV.png" group-title="Nasional",Berita Satu
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8b/Logo_BeritaSatu_TV.png" group-title="Lokal",Berita Satu
 https://etslive-2-vidio-com.akamaized.net/exp=1587951400~acl=/hls-p/ingest_6165_*/*~hmac=b8984a948618b4edd8cd17c0a41464db08d9bfe4a5e16e161988aab6bc140e4d/hls-p/ingest_6165_720p/index.m3u8
