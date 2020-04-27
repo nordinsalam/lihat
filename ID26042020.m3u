@@ -40,7 +40,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1587953063~acl=/hls-p/ingest_geo_1
 https://etslive-2-vidio-com.akamaized.net/exp=1587953222~acl=/hls-p/ingest_5409_*/*~hmac=31a3258638577bf41fbf19dd4b20a5b6ff74be1bff41bb826de753338c76ecb8/hls-p/ingest_5409_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/TvOne_logo_%282010%29.png" group-title="Nasional",TVOne
-https://livetvhooq.akamaized.net/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1587939289~exp=9007200842680280~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_0/chunklist.m3u8*~hmac=081af3e962dee1373c56cc39f4868359704f7c6bf0a28f77615f3260c3493eee
+https://stream-02.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybLBKnoIa7em7lKIAmxmlMV0)/dm/3/x619221/s/live-3.m3u8#cell=lsg1&qos_vpart=1&qos_stail=1
 
 <!-- TV Lokal -->
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cc/Logo_Jak_TV_%282018%29.png" group-title="Lokal",JAKTV
