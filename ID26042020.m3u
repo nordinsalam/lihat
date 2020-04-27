@@ -22,7 +22,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1587951669~acl=/hls-p/ingest_733_*
 https://etslive-2-vidio-com.akamaized.net/exp=1587951860~acl=/hls-p/ingest_665_*/*~hmac=770522bc2acf49dd7b08b9a9a5be84a89be136edd6ae18dab5f31595c78e1501/hls-p/ingest_665_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cpSiuF1.png" group-title="Nasional",Trans7
-https://etslive-2-vidio-com.akamaized.net/exp=1587951974~acl=/hls-p/ingest_734_*/*~hmac=ed8ded1ae979e9324a8134d20c8aeae2f0e764c7aaf958ffebaa0c829a2d7025/hls-p/ingest_734_720p/index.m3u8
+https://t5-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/trans72_all/skrz1j8exe/trans72_576p/chunks.m3u8?nimblesessionid=160802578&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIwIDU6NDM6MzEgQU0maGFzaF92YWx1ZT11NHVpRGJrTmhYMXdOQ3g3eUpzMXhnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9LTk1ODk4NTMzfDM2LjgxLjYzLjE5Nw==
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="Nasional",MNC TV
 https://etslive-2-vidio-com.akamaized.net/exp=1587952047~acl=/hls-p/ingest_870_*/*~hmac=6f4ed6736c013e1ce608f179205e298bf4ae32f6a6f6a02384244611b3501ae0/hls-p/ingest_870_720p/index.m3u8
