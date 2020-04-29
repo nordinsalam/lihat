@@ -1,49 +1,58 @@
 #EXTM3U
 <!-- TV Nasional -->
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e5/SCTV_Logo.png" group-title="Nasional",SCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1588020486~acl=/hls-p/ingest_204_*/*~hmac=a8aebb16f850cf2540d53c953e86a4ade56209c6315c1e4900e0426cfc2c719a/hls-p/ingest_204_720p/index.m3u8
+http://id1.indostreamingtv.com/live/sctv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="Nasional",Indosiar
-https://etslive-2-vidio-com.akamaized.net/exp=1588020417~acl=/hls-p/ingest_205_*/*~hmac=7057e4d5aba85aaf92a40e826ab6706b33643205e5332484ce023a7a9aa47b38/hls-p/ingest_205_720p/index.m3u8
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/New_Logo_TVRI.png" group-title="Nasional",TVRI
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/2e/Logo-Kompas_TV.png" group-title="Nasional",Kompas TV
-https://edge.nim.mivo.tv/wm3d5ndxxds8h3kr/kompastv_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIwIDQ6Mzc6MzIgUE0maGFzaF92YWx1ZT1lM2JwVE9VZnRLZ0ZYWVhIUDVQWlN3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9LTE4MTE1NDY4fDE4MC4yNTMuMTM1LjIyMA==
+https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1588126653~exp=9007200842867644~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_1/chunklist.m3u8*~hmac=98a76dd488c26b454aeb8f9cbfb1169d7360e7b02602bd993b3a1f356685421b
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/bb/New_MetroTV_Logo_2010.png" group-title="Nasional",Metro TV
-https://edge.nim.mivo.tv/wm3d5ndxxds8h3kr/metrotv2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIwIDQ6Mzc6MzIgUE0maGFzaF92YWx1ZT1lM2JwVE9VZnRLZ0ZYWVhIUDVQWlN3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9LTE4MTE1NDY4fDE4MC4yNTMuMTM1LjIyMA==
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9ESSmBG.png" group-title="Nasional",Trans TV
-https://edge.nim.mivo.tv/wm3d5ndxxds8h3kr/transtv2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIwIDQ6Mzc6MzIgUE0maGFzaF92YWx1ZT1lM2JwVE9VZnRLZ0ZYWVhIUDVQWlN3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9LTE4MTE1NDY4fDE4MC4yNTMuMTM1LjIyMA==
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9ESSmBG.png" group-title="Nasional",Trans TV (opt 1)
+http://id1.indostreamingtv.com/live/transtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9ESSmBG.png" group-title="Nasional",Trans TV (opt 2)
+https://cdn-livetv1.metube.id/hls/transtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/09/RCTI_MNC-Group.png" group-title="Nasional",RCTI
-https://edge.nim.mivo.tv/wm3d5ndxxds8h3kr/rcti2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIwIDQ6Mzc6MzIgUE0maGFzaF92YWx1ZT1lM2JwVE9VZnRLZ0ZYWVhIUDVQWlN3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9LTE4MTE1NDY4fDE4MC4yNTMuMTM1LjIyMA==
+http://id6.indostreamingtv.com/live/rcti/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cpSiuF1.png" group-title="Nasional",Trans7
-https://edge.nim.mivo.tv/wm3d5ndxxds8h3kr/trans72_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIwIDQ6Mzc6MzIgUE0maGFzaF92YWx1ZT1lM2JwVE9VZnRLZ0ZYWVhIUDVQWlN3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9LTE4MTE1NDY4fDE4MC4yNTMuMTM1LjIyMA==
+http://id1.indostreamingtv.com/live/trans7/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="Nasional",MNC TV
-https://edge.nim.mivo.tv/wm3d5ndxxds8h3kr/mnctv2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIwIDQ6Mzc6MzIgUE0maGFzaF92YWx1ZT1lM2JwVE9VZnRLZ0ZYWVhIUDVQWlN3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9LTE4MTE1NDY4fDE4MC4yNTMuMTM1LjIyMA==
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="Nasional",MNC TV (opt 1)
+http://id6.indostreamingtv.com/live/mnctv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="Nasional",GTV
-https://edge.nim.mivo.tv/wm3d5ndxxds8h3kr/globaltv2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIwIDQ6Mzc6MzIgUE0maGFzaF92YWx1ZT1lM2JwVE9VZnRLZ0ZYWVhIUDVQWlN3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9LTE4MTE1NDY4fDE4MC4yNTMuMTM1LjIyMA==
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="Nasional",MNC TV (opt 2)
+https://cdn-livetv1.metube.id/hls/mnctv_240/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="Nasional",GTV (opt 1)
+http://id6.indostreamingtv.com/live/tv1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="Nasional",GTV (opt 2)
+https://cdn-livetv1.metube.id/hls/globaltv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7c/Netmediatama.png" group-title="Nasional",NET
-https://edge.nim.mivo.tv/wm3d5ndxxds8h3kr/nettv_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIwIDQ6Mzc6MzIgUE0maGFzaF92YWx1ZT1lM2JwVE9VZnRLZ0ZYWVhIUDVQWlN3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9LTE4MTE1NDY4fDE4MC4yNTMuMTM1LjIyMA==
+https://streaming.useetv.com/joss/15/net/playlist.m3u8?enc=PnfgbRNtynfdjuiS-bmFQA&exp=1588127872&encp=4vfZWqvD6-2ph060nUXbgA&expp=1588136572
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Goc3pTS.png" group-title="Nasional",RTV
-https://edge.nim.mivo.tv/wm3d5ndxxds8h3kr/rajawalitv.stream_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIwIDQ6Mzc6MzIgUE0maGFzaF92YWx1ZT1lM2JwVE9VZnRLZ0ZYWVhIUDVQWlN3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9LTE4MTE1NDY4fDE4MC4yNTMuMTM1LjIyMA==
+https://cdn-livetv1.metube.id/hls/rtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="Nasional",iNews
-https://edge.nim.mivo.tv/wm3d5ndxxds8h3kr/inewstv_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIwIDQ6Mzc6MzIgUE0maGFzaF92YWx1ZT1lM2JwVE9VZnRLZ0ZYWVhIUDVQWlN3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9LTE4MTE1NDY4fDE4MC4yNTMuMTM1LjIyMA==
+https://cdn-livetv1.metube.id/hls/inewstv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/TvOne_logo_%282010%29.png" group-title="Nasional",TVOne
-https://www.dailymotion.com/cdn/live/video/x619221.m3u8?sec=WH1WsjGrPJRjGXGCPUyerCoKm_RTuSQ9qxXlnvFrGTNEn6b8Bst09g7HtA5h4G_8yAoFOyR1dWBCeq1-X5Wndg
+http://id1.indostreamingtv.com/live/tv444/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/489px-Antv_logo_%282017%29.svg.png" group-title="Nasional",ANTV
-https://edge.nim.mivo.tv/wm3d5ndxxds8h3kr/antv2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIwIDQ6MjA6MDMgUE0maGFzaF92YWx1ZT1SWml2UEdTQ05hS0E5MTdRVC9ETlVnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9LTY1OTA4ODd8MTgwLjI1My4xMzUuMjIw
+http://id2.indostreamingtv.com/live/antv/index.m3u8
 
 <!-- TV Lokal -->
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cc/Logo_Jak_TV_%282018%29.png" group-title="Lokal",JAKTV
