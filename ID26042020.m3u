@@ -4,7 +4,7 @@
 https://stream.suryaiptv.net/streams/6_.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="Nasional",Indosiar
-http://id1.indostreamingtv.com/live/indosiar/index.m3u8
+https://stream.suryaiptv.net/streams/113_.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/New_Logo_TVRI.png" group-title="Nasional",TVRI
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
@@ -22,7 +22,7 @@ https://stream.suryaiptv.net/streams/4_.m3u8
 http://id6.indostreamingtv.com/live/rcti/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cpSiuF1.png" group-title="Nasional",Trans7
-http://id1.indostreamingtv.com/live/trans7/index.m3u8
+http://182.30.143.185:9981/stream/channelid/1802562062
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="Nasional",MNC TV
 http://id6.indostreamingtv.com/live/mnctv/index.m3u8
