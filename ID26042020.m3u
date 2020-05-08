@@ -1,7 +1,7 @@
 #EXTM3U
 <!-- TV Nasional -->
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e5/SCTV_Logo.png" group-title="Nasional",SCTV
-http://id1.indostreamingtv.com/live/sctv/index.m3u8
+https://stream.suryaiptv.net/streams/6_.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="Nasional",Indosiar
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
@@ -13,13 +13,10 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u
 https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1588126653~exp=9007200842867644~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_1/chunklist.m3u8*~hmac=98a76dd488c26b454aeb8f9cbfb1169d7360e7b02602bd993b3a1f356685421b
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/bb/New_MetroTV_Logo_2010.png" group-title="Nasional",Metro TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+https://stream.suryaiptv.net/streams/23_.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9ESSmBG.png" group-title="Nasional",Trans TV (opt 1)
-http://id1.indostreamingtv.com/live/transtv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9ESSmBG.png" group-title="Nasional",Trans TV (opt 2)
-https://cdn-livetv1.metube.id/hls/transtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9ESSmBG.png" group-title="Nasional",Trans TV
+https://stream.suryaiptv.net/streams/4_.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/09/RCTI_MNC-Group.png" group-title="Nasional",RCTI
 http://id6.indostreamingtv.com/live/rcti/index.m3u8
@@ -27,20 +24,14 @@ http://id6.indostreamingtv.com/live/rcti/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cpSiuF1.png" group-title="Nasional",Trans7
 http://id1.indostreamingtv.com/live/trans7/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="Nasional",MNC TV (opt 1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="Nasional",MNC TV
 http://id6.indostreamingtv.com/live/mnctv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="Nasional",MNC TV (opt 2)
-https://cdn-livetv1.metube.id/hls/mnctv_240/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="Nasional",GTV (opt 1)
-http://id6.indostreamingtv.com/live/tv1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="Nasional",GTV (opt 2)
-https://cdn-livetv1.metube.id/hls/globaltv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="Nasional",GTV
+https://stream.suryaiptv.net/streams/10_.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7c/Netmediatama.png" group-title="Nasional",NET
-https://streaming.useetv.com/joss/15/net/playlist.m3u8?enc=PnfgbRNtynfdjuiS-bmFQA&exp=1588127872&encp=4vfZWqvD6-2ph060nUXbgA&expp=1588136572
+https://stream.suryaiptv.net/streams/16_.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Goc3pTS.png" group-title="Nasional",RTV
 https://cdn-livetv1.metube.id/hls/rtv.m3u8
@@ -49,10 +40,10 @@ https://cdn-livetv1.metube.id/hls/rtv.m3u8
 https://cdn-livetv1.metube.id/hls/inewstv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/TvOne_logo_%282010%29.png" group-title="Nasional",TVOne
-http://id1.indostreamingtv.com/live/tv444/index.m3u8
+https://stream.suryaiptv.net/streams/22_.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/489px-Antv_logo_%282017%29.svg.png" group-title="Nasional",ANTV
-http://id2.indostreamingtv.com/live/antv/index.m3u8
+https://stream.suryaiptv.net/streams/5_.m3u8
 
 <!-- TV Lokal -->
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cc/Logo_Jak_TV_%282018%29.png" group-title="Lokal",JAKTV
