@@ -1,57 +1,49 @@
 #EXTM3U
-#EXTINF:-1,AXN-2
-http://210.210.155.66/h/h141/02.m3u8
-#EXTINF:-1,SONY
-http://210.210.155.66/h/h143/02.m3u8
-#EXTINF:-1,AXN
-http://210.210.155.66/h/h141/01.m3u8
-#EXTINF:-1,Sony One
-http://210.210.155.66/h/h143/01.m3u8
-#EXTINF:-1,Sony Gem
-http://210.210.155.66/h/h19/01.m3u8
-#EXTINF:-1,NHK World
-http://210.210.155.66/h/h23/01.m3u8
-#EXTINF:-1,Egg Network
-http://210.210.155.66/h/h22/01.m3u8
-#EXTINF:-1,Channel Newsasia
-http://210.210.155.66/h/h29/01.m3u8
-#EXTINF:-1,Sony Gem
-http://210.210.155.66/h/h19/02.m3u8
-#EXTINF:-1,NHK World
-http://210.210.155.66/h/h23/02.m3u8
-#EXTINF:-1,Egg Network
-http://210.210.155.66/h/h22/02.m3u8
-#EXTINF:-1,Channel Newsasia
-http://210.210.155.66/h/h29/02.m3u8
-#EXTINF:-1,TV5 Monde Style
-http://210.210.155.66/h/h01/01.m3u8
-#EXTINF:-1,TV5 Monde Style
-http://210.210.155.66/h/h01/02.m3u8
-#EXTINF:-1,MNC Lifestyle
-http://210.210.155.66/h/h28/01.m3u8
-#EXTINF:-1,MNC Lifestyle
-http://210.210.155.66/h/h28/02.m3u8
-#EXTINF:-1,Metro
-http://210.210.155.66/h/h12/01.m3u8
-#EXTINF:-1,Metro
-http://210.210.155.66/h/h12/02.m3u8
-#EXTINF:-1,Satellite TV
-http://210.210.155.66/h/h08/01.m3u8
-#EXTINF:-1,Satellite TV
-http://210.210.155.66/h/h08/02.m3u8
-#EXTINF:-1,Kix
-http://210.210.155.66/h/h07/01.m3u8
-#EXTINF:-1,Kix
-http://210.210.155.66/h/h07/02.m3u8
-#EXTINF:-1,Fight Sports
-http://210.210.155.66/h/h05/01.m3u8
-#EXTINF:-1,Fight Sports
-http://210.210.155.66/h/h05/02.m3u8
-#EXTINF:-1,Bloomberg
-http://210.210.155.66/h/h04/01.m3u8
-#EXTINF:-1,Bloomberg
-http://210.210.155.66/h/h04/02.m3u8
-#EXTINF:-1,Bloomberg
-http://210.210.155.66/h/h03/01.m3u8
-#EXTINF:-1,Hits
-http://210.210.155.66/h/h37/01.m3u8
+#EXTINF:-1,Sinema X Indonesia
+https://stream.suryaiptv.net/streams/114_.m3u8
+#EXTINF:-1,ID | K-Drama
+https://stream.suryaiptv.net/streams/40_.m3u8
+#EXTINF:-1,ID | Sinema Indonesia
+https://stream.suryaiptv.net/streams/124_.m3u8
+#EXTINF:-1,ID | TVP
+https://stream.suryaiptv.net/streams/133_.m3u8
+#EXTINF:-1,ID | FTV
+https://stream.suryaiptv.net/streams/134_.m3u8
+#EXTINF:-1,ID | Drakor Plus
+https://stream.suryaiptv.net/streams/132_.m3u8
+#EXTINF:-1,ID | M Cine
+https://stream.suryaiptv.net/streams/135_.m3u8
+#EXTINF:-1,ID | Lejel Shopping TV
+https://stream.suryaiptv.net/streams/125_.m3u8
+#EXTINF:-1,MATRIX TV
+https://stream.suryaiptv.net/streams/70_.m3u8
+#EXTINF:-1,Indosiar
+https://stream.suryaiptv.net/streams/113_.m3u8
+#EXTINF:-1,Fox Life
+https://stream.suryaiptv.net/streams/109_.m3u8
+#EXTINF:-1,Fox HD
+https://stream.suryaiptv.net/streams/107_.m3u8
+#EXTINF:-1,Nabawi TV
+https://stream.suryaiptv.net/streams/44_.m3u8
+#EXTINF:-1,TRANS 7
+https://stream.suryaiptv.net/streams/1_.m3u8
+#EXTINF:-1,TRANS TV
+https://stream.suryaiptv.net/streams/4_.m3u8
+#EXTINF:-1,antv
+https://stream.suryaiptv.net/streams/5_.m3u8
+#EXTINF:-1,SCTV
+https://stream.suryaiptv.net/streams/6_.m3u8
+#EXTINF:-1,GTV
+https://stream.suryaiptv.net/streams/10_.m3u8
+#EXTINF:-1,NET
+https://stream.suryaiptv.net/streams/16_.m3u8
+#EXTINF:-1,TV ONE
+https://stream.suryaiptv.net/streams/22_.m3u8
+#EXTINF:-1,Metro TV
+https://stream.suryaiptv.net/streams/23_.m3u8
+#EXTINF:-1,Etam Channel
+https://stream.suryaiptv.net/streams/2_.m3u8
+#EXTINF:-1,ANTV
+https://stream.suryaiptv.net/streams/8_.m3u8
+#EXTINF:-1,TV ONE
+https://stream.suryaiptv.net/streams22_.m3u8
