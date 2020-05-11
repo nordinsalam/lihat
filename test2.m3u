@@ -144,7 +144,7 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRIAceh)/index.m3u8
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIbali)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="INDONESIA",TVRI Bengkulu
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIbengkulu)/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="INDONESIA",TVRI Jambi
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIjambi)/index.m3u8
@@ -153,13 +153,10 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRIjambi)/index.m3u8
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIjabarbandung)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="INDONESIA",TVRI Jawa Tengah
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIjatengsemarang)/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="INDONESIA",TVRI Jawa Timur
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIjatimsurabaya)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="INDONESIA",TVRI Nasional
-http://118.97.50.107/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="INDONESIA",TVRI Jakarta
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
@@ -168,7 +165,7 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIkalbar)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="INDONESIA",TVRI Kalsel
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="INDONESIA",TVRI Kaltim Samarinda
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIkaltimsamarinda)/index.m3u8
