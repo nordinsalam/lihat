@@ -1,41 +1,179 @@
 #EXTM3U
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="russkaya-noch" parent-code="0000" group-title="Adults" tvg-logo="http://pl.ottg.tv:80/icon/8930.png",Русская ночь 18+
-http://cdn.ottg.tv/8930/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=353&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="nuart-tv" parent-code="0000" group-title="Adults" tvg-logo="http://pl.ottg.tv:80/icon/8917.png",Ню Арт HD 18+
-http://cdn.ottg.tv/8917/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=354&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="shalun" parent-code="0000" group-title="Adults" tvg-logo="http://pl.ottg.tv:80/icon/7065.png",Шалун HD 18+
-http://cdn.ottg.tv/7065/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=355&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="playboy-tv" parent-code="0000" group-title="Adults" tvg-logo="http://pl.ottg.tv:80/icon/6534.png",Playboy TV 18+
-http://cdn.ottg.tv/6534/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=356&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="candy" parent-code="0000" group-title="Adults" tvg-logo="http://pl.ottg.tv:80/icon/1.png",Candy HD 18+
-http://cdn.ottg.tv//video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=357&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="dorcel" parent-code="0000" group-title="Adults" tvg-logo="http://pl.ottg.tv:80/icon/3467.png",Dorcel HD 18+
-http://cdn.ottg.tv/3467/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=358&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="redlight-hd" parent-code="0000" group-title="Adults" tvg-logo="http://pl.ottg.tv:80/icon/5504.png",Redlight HD 18+
-http://cdn.ottg.tv/5504/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=359&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="hustler-hd" parent-code="0000" group-title="Adults" tvg-logo="http://pl.ottg.tv:80/icon/1971.png",Hustler HD 18+
-http://cdn.ottg.tv/1971/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=360&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="brazzers-tv-europe-ru" parent-code="0000" group-title="Adults" tvg-logo="http://pl.ottg.tv:80/icon/1143.png",Brazzers TV 18+
-http://cdn.ottg.tv/1143/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=361&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="" parent-code="0000" group-title="Adults" tvg-logo="http://pl.ottg.tv:80/icon/8559.png",Penthouse Black HD 18+
-http://cdn.ottg.tv/8559/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=362&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="" parent-code="0000" group-title="Adults" tvg-logo="http://pl.ottg.tv:80/icon/1.png",Penthouse HD2 18+
-http://cdn.ottg.tv//video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=363&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="penthouse-hd" parent-code="0000" group-title="Adults" tvg-logo="http://pl.ottg.tv:80/icon/6447.png",Pentouse Gold HD 18+
-http://cdn.ottg.tv/6447/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=364&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="private-tv" parent-code="0000" group-title="Adults" tvg-logo="http://pl.ottg.tv:80/icon/1265.png",Private HD 18+
-http://cdn.ottg.tv/1265/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=365&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="" parent-code="0000" group-title="Adults" tvg-logo="http://pl.ottg.tv:80/icon/4639.png",Vivid Red HD 18+
-http://cdn.ottg.tv/4639/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=366&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="" parent-code="0000" group-title="Adults" tvg-logo="http://pl.ottg.tv:80/icon/3567.png",PINKoTV 18+
-http://cdn.ottg.tv/3567/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=367&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="" parent-code="0000" group-title="Adults" tvg-logo="http://pl.ottg.tv:80/icon/9259.png",SEXTOSENSO 18+
-http://cdn.ottg.tv/9259/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=368&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="barely-legal" parent-code="0000" group-title="Adults" tvg-logo="http://pl.ottg.tv:80/icon/5182.png",Barely Legal TV 18+
-http://cdn.ottg.tv/5182/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=369&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="" parent-code="0000" group-title="Adults" tvg-logo="http://pl.ottg.tv:80/icon/1.png",XMUVI 18+
-http://cdn.ottg.tv//video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=370&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="" parent-code="0000" group-title="Adults" tvg-logo="http://pl.ottg.tv:80/icon/3797.png",PriveTV 18+
-http://cdn.ottg.tv/3797/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=371&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="passionxxx" parent-code="0000" group-title="Adults" tvg-logo="http://pl.ottg.tv:80/icon/6774.png",PassionXXX 18+
-http://cdn.ottg.tv/6774/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=372&req_host=pkjX3BL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Adults",ANAL
+http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/anal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/56TKZah.png" group-title="",AsSalt TV
+https://stream.ecable.tv/asstv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" group-title="Adults",AST TV 1
+http://www.ast.tv/stream/1/cellular.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" group-title="Adults",AST TV 1
+http://www.ast.tv/stream/1/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" group-title="Adults",AST TV 1
+https://www.ast.tv/stream/1/high.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" group-title="Adults",AST TV 1
+https://www.ast.tv/stream/1/ultra.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" group-title="Adults",AST TV 2
+http://www.ast.tv/stream/2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" group-title="Adults",AST TV 2
+https://www.ast.tv/stream/2/high.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" group-title="Adults",AST TV 2
+https://www.ast.tv/stream/2/normal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" group-title="Adults",AST TV 2
+https://www.ast.tv/stream/2/ultra.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" group-title="Adults",Jasmin TV
+http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" group-title="Adults",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1190948669.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" group-title="Adults",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1639491303.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" group-title="Adults",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1770948941.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" group-title="Adults",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w815696992.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" group-title="Adults",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w934179313.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" group-title="Adults",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" group-title="Adults",Jasmin TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w513145911.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" group-title="Adults",Jasmin TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" group-title="Adults",Jasmin TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" group-title="Adults",Jasmin TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Adults",RedTraffic - MILF
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="" group-title="Adults",NYX 1
+https://cdn1.ibizastream.biz:441/free/1/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="" group-title="Adults",NYX 2
+https://cdn1.ibizastream.biz:441/free/2/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Adults",RedTraffic - Blowjob
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Adults",RedTraffic - Russian
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Adults",RedTraffic - Latina
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Adults",RedTraffic - Interracial
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Adults",RedTraffic - Threesome
+http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Adults",RedTraffic - Cuckold
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Adults",RedTraffic - Teen
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Adults",RedTraffic - POV
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Adults",RedTraffic - Big Dick
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Adults",RedTraffic - Big Ass
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Adults",RedTraffic - Hardcore
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Adults",RedTraffic - Pornstar
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Adults",RedTraffic - Lesbian
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Adults",RedTraffic - Big Tits
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Adults",RedTraffic - Fetish
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1,Adults m3u8 Ask TV
+http://edge2.everyon.tv/etv2/phd1005/HasBahCa.m3u8
+#EXTINF:-1,Adults m3u8 BUTGO
+http://edge2.everyon.tv/etv2/phd772/HasBahCa.m3u8
+#EXTINF:-1,Adults m3u8 BUTGO
+http://edge2.everyon.tv/etv2/pld772/HasBahCa.m3u8
+#EXTINF:-1,Adults m3u8 Cinero
+http://edge2.everyon.tv/etv2/phd59/HasBahCa.m3u8
+#EXTINF:-1,Adults m3u8 Delight Empire
+http://edge2.everyon.tv/etv2/phd63/HasBahCa.m3u8
+#EXTINF:-1,Adults m3u8 Girls TV
+http://edge2.everyon.tv/etv2/pld501/HasBahCa.m3u8
+#EXTINF:-1,Adults m3u8 Girls TV
+http://edge2.everyon.tv/etv2/phd501/HasBahCa.m3u8
+#EXTINF:-1,Adults m3u8 Honey
+http://edge2.everyon.tv/etv2/phd928/HasBahCa.m3u8
+#EXTINF:-1,Adults m3u8 Hot Movies
+http://edge2.everyon.tv/etv2/phd511/HasBahCa.m3u8
+#EXTINF:-1,Adults m3u8 J Hot Girl
+http://edge2.everyon.tv/etv2/pld59/HasBahCa.m3u8
+#EXTINF:-1,Adults m3u8 J Hot Girl HD
+http://edge2.everyon.tv/etv2/phd59/HasBahCa.m3u8
+#EXTINF:-1,Adults m3u8 Livething
+http://edge2.everyon.tv/etv2/phd64/HasBahCa.m3u8
+#EXTINF:-1,Adults m3u8 Livething Premium
+http://edge2.everyon.tv/etv2/phd1006/HasBahCa.m3u8
+#EXTINF:-1,Adults m3u8 Ohdeok
+http://edge2.everyon.tv/etv2/pld993/HasBahCa.m3u8
+#EXTINF:-1,Adults m3u8 Ohdeok HD
+http://edge2.everyon.tv/etv2/phd993/HasBahCa.m3u8
+#EXTINF:-1,Adults m3u8 Okadai
+http://edge2.everyon.tv/etv2/pld1003/HasBahCa.m3u8
+#EXTINF:-1,Adults m3u8 Okadai HD
+http://edge2.everyon.tv/etv2/phd1003/HasBahCa.m3u8
+#EXTINF:-1,Adults m3u8 Paradise TV
+http://edge2.everyon.tv/etv2/pld1008/HasBahCa.m3u8
+#EXTINF:-1,Adults m3u8 Penthouse
+http://edge2.everyon.tv/etv2/phd927/HasBahCa.m3u8
+#EXTINF:-1,Adults m3u8 Pink TV
+http://edge2.everyon.tv:80/etv2/phd62/HasBahCa.m3u8
+#EXTINF:-1,Adults m3u8 Plus TV
+http://edge2.everyon.tv/etv2/phd992/HasBahCa.m3u8
+#EXTINF:-1,Adults m3u8 Plus TV
+http://edge2.everyon.tv/etv2/pld501/HasBahCa.m3u8
+#EXTINF:-1,Adults m3u8 Sakura
+http://edge2.everyon.tv/etv2/pld61/HasBahCa.m3u8
+#EXTINF:-1,Adults m3u8 Sakura HD
+http://edge2.everyon.tv/etv2/phd61/HasBahCa.m3u8
+#EXTINF:-1,Adults m3u8 The O
+http://edge2.everyon.tv/etv2/phd771/HasBahCa.m3u8
+#EXTINF:-1,Adults rtmp Ask TV
+rtmp://edge2.everyon.tv/etv2/phd1005
+#EXTINF:-1,Adults rtmp BUTGO
+rtmp://edge2.everyon.tv/etv2/phd772
+#EXTINF:-1,Adults rtmp BUTGO
+rtmp://edge2.everyon.tv/etv2/pld772
+#EXTINF:-1,Adults rtmp Cinero
+rtmp://edge2.everyon.tv/etv2/phd59
+#EXTINF:-1,Adults rtmp Delight Empire
+rtmp://edge2.everyon.tv/etv2/phd63
+#EXTINF:-1,Adults rtmp Girls TV
+rtmp://edge2.everyon.tv/etv2/phd501
+#EXTINF:-1,Adults rtmp Girls TV
+rtmp://edge2.everyon.tv/etv2/pld501
+#EXTINF:-1,Adults rtmp Honey
+rtmp://edge2.everyon.tv/etv2/phd928
+#EXTINF:-1,Adults rtmp Hot Movies
+rtmp://edge2.everyon.tv/etv2/phd511
+#EXTINF:-1,Adults rtmp J Hot Girl
+rtmp://edge2.everyon.tv/etv2/pld59
+#EXTINF:-1,Adults rtmp J Hot Girl HD
+rtmp://edge2.everyon.tv/etv2/phd59
+#EXTINF:-1,Adults rtmp Livething
+rtmp://edge2.everyon.tv/etv2/phd64
+#EXTINF:-1,Adults rtmp Livething Premium
+rtmp://edge2.everyon.tv/etv2/phd1006
+#EXTINF:-1,Adults rtmp Ohdeok
+rtmp://edge2.everyon.tv/etv2/pld993
+#EXTINF:-1,Adults rtmp Ohdeok HD
+rtmp://edge2.everyon.tv/etv2/phd993
+#EXTINF:-1,Adults rtmp Okadai
+rtmp://edge2.everyon.tv/etv2/pld1003
+#EXTINF:-1,Adults rtmp Okadai HD
+rtmp://edge2.everyon.tv/etv2/phd1003
+#EXTINF:-1,Adults rtmp Paradise TV
+rtmp://edge2.everyon.tv/etv2/pld1008
+#EXTINF:-1,Adults rtmp Penthouse
+rtmp://edge2.everyon.tv/etv2/phd927
+#EXTINF:-1,Adults rtmp Pink TV
+rtmp://edge2.everyon.tv:80/etv2/phd62
+#EXTINF:-1,Adults rtmp Plus TV
+rtmp://edge2.everyon.tv/etv2/pld501
+#EXTINF:-1,Adults rtmp Plus TV
+rtmp://edge2.everyon.tv/etv2/phd992
+#EXTINF:-1,Adults rtmp Sakura
+rtmp://edge2.everyon.tv/etv2/pld61
+#EXTINF:-1,Adults rtmp Sakura HD
+rtmp://edge2.everyon.tv/etv2/phd61
+#EXTINF:-1,Adults rtmp The O
+rtmp://edge2.everyon.tv/etv2/phd771
