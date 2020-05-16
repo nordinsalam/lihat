@@ -3,3 +3,5 @@
 channels/adults.m3u
 #EXTINF:-1,Entertainment
 channels/entertainment.m3u
+#EXTINF:-1,Sports
+channels/sports.m3u
