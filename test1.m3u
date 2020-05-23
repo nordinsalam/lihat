@@ -823,8 +823,7 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist.m3u
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="MUSIK",Prambors
 https://cdnbpp1.useetv.com/joss/14/pramborstv/chunklist_w229786603_b684100_sleng_paskas.m3u8
 https://edgejt6.useetv.com/joss/14/pramborstv/chunklist_w1344365834_b684100_sleng_184337.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="MUSIK",T MUSIK
-https://cdnjt22.useetv.com/joss/14/tmusic/chunklist_w870068905_b684100_sleng_138940.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="MUSIK",Lapak Musik
 http://stream2.ninmedia.tv/lapakmusiktv/rtmp.stream_360p/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="MUSIK",9XO
