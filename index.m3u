@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1,Adults
-/channels/adults.m3u
+channels/adults.m3u
 #EXTINF:-1,Entertainment
-/channels/entertainment.m3u
+channels/entertainment.m3u
 #EXTINF:-1,Sports
-/channels/sports.m3u
+channels/sports.m3u
 #EXTINF:-1,Movies
-/channels/movies.m3u
+channels/movies.m3u
