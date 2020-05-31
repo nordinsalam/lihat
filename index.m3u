@@ -5,3 +5,5 @@ channels/adults.m3u
 channels/entertainment.m3u
 #EXTINF:-1,Sports
 channels/sports.m3u
+#EXTINF:-1,Movies
+channels/movies.m3u
