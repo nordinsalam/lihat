@@ -5,3 +5,6 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Spider-Man-Into-the-S
 
 #EXTINF:-1  tvg-logo="" group-title="FILM",Aquaman (2018)
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Aquaman-2018.mp4/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="FILM",AXN
+https://edgejt6.useetv.com/joss/15/axn/chunklist_w1406435087_b894100_sleng.m3u8
