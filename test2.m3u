@@ -1,76 +1,25 @@
 #EXTM3U
-
-#EXTINF:-1,TV5 Monde Style HD
-http://210.210.155.66/h/h01/01.m3u8
-#EXTINF:-1,TV5 Monde Style SD
-http://210.210.155.66/h/h01/02.m3u8
-
-#EXTINF:-1,Bloomberg HD
-http://210.210.155.66/h/h03/01.m3u8
-#EXTINF:-1,Bloomberg SD
-http://210.210.155.66/h/h03/02.m3u8
-
-#EXTINF:-1,Cinema World HD
-http://210.210.155.66/h/h04/01.m3u8
-#EXTINF:-1,Cinema World SD
-http://210.210.155.66/h/h04/02.m3u8
-
-#EXTINF:-1,Fight Sports HD
-http://210.210.155.66/h/h05/01.m3u8
-#EXTINF:-1,Fight Sports SD
-http://210.210.155.66/h/h05/02.m3u8
-
-#EXTINF:-1,Kix HD
-http://210.210.155.66/h/h07/01.m3u8
-#EXTINF:-1,Kix SD
-http://210.210.155.66/h/h07/02.m3u8
-
-#EXTINF:-1,K+ HD
-http://210.210.155.66/h/h08/01.m3u8
-#EXTINF:-1,K+ SD
-http://210.210.155.66/h/h08/02.m3u8
-
-#EXTINF:-1,Metro HD
-http://210.210.155.66/h/h12/01.m3u8
-#EXTINF:-1,Metro SD
-http://210.210.155.66/h/h12/02.m3u8
-
-#EXTINF:-1,Sony Gem HD
-http://210.210.155.66/h/h19/01.m3u8
-#EXTINF:-1,Sony Gem SD
-http://210.210.155.66/h/h19/02.m3u8
-
-#EXTINF:-1,Egg Network HD
-http://210.210.155.66/h/h22/01.m3u8
-#EXTINF:-1,Egg Network SD
-http://210.210.155.66/h/h22/02.m3u8
-
-#EXTINF:-1,NHK World HD
-http://210.210.155.66/h/h23/01.m3u8
-#EXTINF:-1,NHK World SD
-http://210.210.155.66/h/h23/02.m3u8
-
-#EXTINF:-1,Dens Lifestyle HD
-http://210.210.155.66/h/h28/01.m3u8
-#EXTINF:-1,Dens Lifestyle SD
-http://210.210.155.66/h/h28/02.m3u8
-
-#EXTINF:-1,Channel Newsasia HD
-http://210.210.155.66/h/h29/01.m3u8
-#EXTINF:-1,Channel Newsasia SD
-http://210.210.155.66/h/h29/02.m3u8
-
-#EXTINF:-1,Hits HD
-http://210.210.155.66/h/h37/01.m3u8
-#EXTINF:-1,Hits SD
-http://210.210.155.66/h/h37/02.m3u8
-
-#EXTINF:-1,AXN HD
-http://210.210.155.66/h/h141/01.m3u8
-#EXTINF:-1,AXN SD
-http://210.210.155.66/h/h141/02.m3u8
-
-#EXTINF:-1,Sony One HD
-http://210.210.155.66/h/h143/01.m3u8
-#EXTINF:-1,Sony One SD
-http://210.210.155.66/h/h143/02.m3u8
+#EXTINF:-1,RCTI
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
+#EXTINF:-1,GTV
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
+#EXTINF:-1,MNC
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
+#EXTINF:-1,INEWS
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
+#EXTINF:-1,GTV [TC][HD]720p
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+#EXTINF:-1,GTV [TC]540p
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+#EXTINF:-1,MNC [TC][HD]720p
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+#EXTINF:-1,MNC [TC]540p
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+#EXTINF:-1,RCTI [TC][HD]720p
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+#EXTINF:-1,RCTI [TC]540p
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+#EXTINF:-1,INEWS [TC][HD]720p
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+#EXTINF:-1,INEWS [TC][540p
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
