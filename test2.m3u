@@ -24,6 +24,63 @@ https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-m
 #EXTINF:-1,INEWS [TC][540p
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
 
+#EXTINF:-1,AXN-2
+http://210.210.155.66/h/h141/02.m3u8
+#EXTINF:-1,SONY
+http://210.210.155.66/h/h143/02.m3u8
+#EXTINF:-1,AXN
+http://210.210.155.66/h/h141/01.m3u8
+#EXTINF:-1,Sony One
+http://210.210.155.66/h/h143/01.m3u8
+#EXTINF:-1,Sony Gem
+http://210.210.155.66/h/h19/01.m3u8
+#EXTINF:-1,NHK World
+http://210.210.155.66/h/h23/01.m3u8
+#EXTINF:-1,Egg Network
+http://210.210.155.66/h/h22/01.m3u8
+#EXTINF:-1,Channel Newsasia
+http://210.210.155.66/h/h29/01.m3u8
+#EXTINF:-1,Sony Gem
+http://210.210.155.66/h/h19/02.m3u8
+#EXTINF:-1,NHK World
+http://210.210.155.66/h/h23/02.m3u8
+#EXTINF:-1,Egg Network
+http://210.210.155.66/h/h22/02.m3u8
+#EXTINF:-1,Channel Newsasia
+http://210.210.155.66/h/h29/02.m3u8
+#EXTINF:-1,TV5 Monde Style
+http://210.210.155.66/h/h01/01.m3u8
+#EXTINF:-1,TV5 Monde Style
+http://210.210.155.66/h/h01/02.m3u8
+#EXTINF:-1,MNC Lifestyle
+http://210.210.155.66/h/h28/01.m3u8
+#EXTINF:-1,MNC Lifestyle
+http://210.210.155.66/h/h28/02.m3u8
+#EXTINF:-1,Metro
+http://210.210.155.66/h/h12/01.m3u8
+#EXTINF:-1,Metro
+http://210.210.155.66/h/h12/02.m3u8
+#EXTINF:-1,K+
+http://210.210.155.66/h/h08/01.m3u8
+#EXTINF:-1,K+
+http://210.210.155.66/h/h08/02.m3u8
+#EXTINF:-1,Kix
+http://210.210.155.66/h/h07/01.m3u8
+#EXTINF:-1,Kix
+http://210.210.155.66/h/h07/02.m3u8
+#EXTINF:-1,Fight Sports
+http://210.210.155.66/h/h05/01.m3u8
+#EXTINF:-1,Fight Sports
+http://210.210.155.66/h/h05/02.m3u8
+#EXTINF:-1,Bloomberg
+http://210.210.155.66/h/h04/01.m3u8
+#EXTINF:-1,Bloomberg
+http://210.210.155.66/h/h04/02.m3u8
+#EXTINF:-1,Bloomberg
+http://210.210.155.66/h/h03/01.m3u8
+#EXTINF:-1,Hits
+http://210.210.155.66/h/h37/01.m3u8
+
 #EXTINF:-1,FOXSPORTS1
 https://iptvhit.live/jajang/chos123/chos123/5
 #EXTINF:-1,FOXSPORTS2
